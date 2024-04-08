@@ -25,18 +25,18 @@ I would always be happy to collaborate! Email me at - *tian[dot]yu[dot]feng[at]o
 
 ## Research Interests
 
-- Parallel Computing (including CPU, GPU and other many-core processors)
-- High Performance Computing (sparsity computing, scientific computing application optimization and stencil)
-- Machine Learning Systems (MLSys, including training, inference and model serving)
-- Performance Analysis Tools (large-scale performance analysis of programs running among thousands of nodes)
+- **High Performance Computing:** including sparse computing, scientific computing application optimization and stencil.
+- **Machine Learning Systems (MLSys):** including training, inference and model serving systems.
+- **Parallel Computing:** including CPU, GPU and other many-core processors.
+- **Performance Analysis Tools:** large-scale performance analysis of programs running among up to thousands of nodes.
 
-My research interests cover traditional high performance computing and machine learning systems. Currently, I'm focusing on optimizing machine learning systems from multiple perspective including kernels, data placement and scheduling. I'm also working on exploiting sparsity in various computing workloads including AI and HPC on many-core and heterogeneous systems. The ultimate goal is to shorten computing time of solving significant real world problems.
+My research interests mainly cover traditional high performance computing and machine learning systems. Currently, I'm focusing on optimizing machine learning systems from multiple perspective including kernels, data placement and scheduling. I'm also working on exploiting sparsity in various computing workloads including AI and HPC on many-core and heterogeneous systems. The ultimate goal is to shorten computing time of solving significant real world problems.
 
 ---
 
 ## News and Updates
 
-- **March 2024:** 🔥One work ([AtRec](https://ieeexplore.ieee.org/abstract/document/10478579) [[source code](https://github.com/buaa-hipo/AtRec)]) is accepted by IEEE Transactions on Parallel and Distributed Systems (TPDS).
+- **March 2024:** 🔥 One work ([AtRec](https://ieeexplore.ieee.org/abstract/document/10478579) [[source code](https://github.com/buaa-hipo/AtRec)]) is accepted by IEEE Transactions on Parallel and Distributed Systems (TPDS).
 - **Sep 2023:** Awarded First Prize of Beihang School of Computer Science and Engineering Academics Scholarship.
 - **Aug 2023:** Our team won Third Prize in [SolverChallenge23](https://www.solver-conference.cn/solverchallenge23/)
 - **Dec 2022:** Our team won Second Prize (rank **2**/45) in [Tianchi Competition: DeepRec CTR Model Performance Optimization](https://tianchi.aliyun.com/competition/entrance/532005).

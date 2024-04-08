@@ -11,6 +11,10 @@ title: Awards
 - Sep 2022: First Prize, Academics Scholarship, School of Computer Science and Engineering, Beihang University (7500 CNY)
 - Oct 2019: National Scholarship (Undergraduate) (8000 CNY)
 
+## Academic Awards
+
+- Best Paper Award, IFIP International Conference on Network and Parallel Computing (NPC), 2021
+
 ## Competitions
 
 - Aug 2023: Third Prize in [SolverChallenge23](https://www.solver-conference.cn/solverchallenge23/) (solve 10 large-scale linear system puzzles as fast as possible) (2000 CNY)
