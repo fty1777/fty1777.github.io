@@ -18,7 +18,7 @@ I would always be happy to collaborate! Email me at - *tian[dot]yu[dot]feng[at]o
 
 **<font color='red'>[Highlight]</font> I am actively looking for PhD positions to start in 2025 Fall.**
 
-- **Sep 2022 - June 2025 (Expected):** Beihang University (BUAA) (MEng, CS) (计算机科学与技术, 学术型硕士)
+- **Sep 2022 - Dec 2024 (Expected):** Beihang University (BUAA) (MEng, CS) (计算机科学与技术, 学术型硕士)
 - **Sep 2018 - June 2022:** Beihang University (BUAA) (BEng, CS) (计算机科学与技术, 工学学士)
 
 ---
