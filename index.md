@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://fty1777.github.io/fengtianyu.jpeg" class="floatpic" width="360" height="480">
+<img src="https://fty1777.github.io/images/fengtianyu.jpeg" class="floatpic" width="360" height="480">
 
 Here is **Tianyu Feng (Tim, 冯天昱)**.
 
