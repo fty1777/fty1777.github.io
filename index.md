@@ -48,6 +48,8 @@ My research interests mainly cover traditional high performance computing and ma
 - **Sep 2021:** One work ([dgQuEST](https://link.springer.com/chapter/10.1007/978-3-030-93571-9_2) [[source code](https://github.com/fty1777/dgQuEST)]) was accepted by NPC 2021.
 - **May 2021:** Our team won **First Prize** and **Application Innovation Award** (highest score in quantum circuit simulation) in [ASC20-21](https://ev.buaa.edu.cn/info/1134/3091.htm).
 
+---
+
 ## Programming Languages, Frameworks and Other Skills
 - Programming/Script Languages: C/C++, Python, Bash, Rust (preliminary)
 - Parallel Programming Models: MPI, OpenMP, CUDA
