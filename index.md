@@ -38,15 +38,15 @@ My research interests mainly cover traditional high performance computing and ma
 
 ## News and Updates
 
-- **March 2024:** 🔥 One work ([AtRec](https://ieeexplore.ieee.org/abstract/document/10478579) [[source code](https://github.com/buaa-hipo/AtRec)]) is accepted by IEEE Transactions on Parallel and Distributed Systems (TPDS).
+- **March 2024:** 🔥 One work ([AtRec](https://ieeexplore.ieee.org/abstract/document/10478579) [[source code](https://github.com/buaa-hipo/AtRec)]) is accepted by IEEE Transactions on Parallel and Distributed Systems (TPDS). Great thanks to my advisor Hailong Yang and my excellent collaborator Siqi Wang!
 - **Sep 2023:** Awarded First Prize of Beihang School of Computer Science and Engineering Academics Scholarship.
-- **Aug 2023:** Our team won Third Prize in [SolverChallenge23](https://www.solver-conference.cn/solverchallenge23/)
-- **Dec 2022:** Our team won Second Prize (rank **2**/45) in [Tianchi Competition: DeepRec CTR Model Performance Optimization](https://tianchi.aliyun.com/competition/entrance/532005).
+- **Aug 2023:** Our team won Third Prize in [SolverChallenge23](https://www.solver-conference.cn/solverchallenge23/). Thanks to my advisor Hailong Yang and my teammate Kelun Lei.
+- **Dec 2022:** Our team won Second Prize (rank **2**/45) in [Tianchi Competition: DeepRec CTR Model Performance Optimization](https://tianchi.aliyun.com/competition/entrance/532005). Thanks to my teammate Siqi Wang!
 - **Oct 2022:** Awarded **National Scholarship**.
 - **Sep 2022:** Awarded First Prize of Beihang School of Computer Science and Engineering Academics Scholarship.
-- **Nov 2021:** [dgQuEST](https://link.springer.com/chapter/10.1007/978-3-030-93571-9_2) was selected as the **best paper** in NPC 2021.
-- **Sep 2021:** One work ([dgQuEST](https://link.springer.com/chapter/10.1007/978-3-030-93571-9_2) [[source code](https://github.com/fty1777/dgQuEST)]) was accepted by NPC 2021.
-- **May 2021:** Our team won **First Prize** and **Application Innovation Award** (highest score in quantum circuit simulation) in [ASC20-21](https://ev.buaa.edu.cn/info/1134/3091.htm).
+- **Nov 2021:** [dgQuEST](https://link.springer.com/chapter/10.1007/978-3-030-93571-9_2) was selected as the **best paper** in NPC 2021!
+- **Sep 2021:** One work ([dgQuEST](https://link.springer.com/chapter/10.1007/978-3-030-93571-9_2) [[source code](https://github.com/fty1777/dgQuEST)]) was accepted by NPC 2021. Great thanks to my advisor Hailong Yang and Xin You!
+- **May 2021:** Our team won **First Prize** and **Application Innovation Award** (highest score in quantum circuit simulation) in [ASC20-21](https://ev.buaa.edu.cn/info/1134/3091.htm). Great thanks to my teammates Siyan Chen, Quqi Liu, Jiwei Hao, Chun Cai and our advisor Hailong Yang!
 
 ---
 
