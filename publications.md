@@ -15,7 +15,6 @@ Siqi Wang\*, **Tianyu Feng\***, Hailong Yang, Xin You, Bangduo Chen, Tongxuan Li
 [[source code](https://github.com/buaa-hipo/Atrec)]
 [[html](https://ieeexplore.ieee.org/abstract/document/10478579)]
 [[pdf](https://fty1777.github.io/file/AtRec.pdf)]
-(Early Access)
 
 - [dgQuEST: Accelerating Large Scale Quantum Circuit Simulation through Hybrid CPU-GPU Memory Hierarchies](https://link.springer.com/chapter/10.1007/978-3-030-93571-9_2)
 <br>
