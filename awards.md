@@ -17,6 +17,7 @@ title: Awards
 
 ## Competitions
 
+- April 2024: Champion in [RISC-V Software Porting and Optimization Championship (S2310)](https://rvspoc.org/2023/champions/). (port additional features of open-source inference framework ncnn to RISC-V, accelerating deep learning operators using RVV) (12000 CNY)
 - Aug 2023: Third Prize in [SolverChallenge23](https://www.solver-conference.cn/solverchallenge23/) (solve 10 large-scale linear system puzzles as fast as possible) (2000 CNY)
 - Dec 2022: Second Prize (rank **2**/45) in [Tianchi Competition: DeepRec CTR Model Performance Optimization](https://tianchi.aliyun.com/competition/entrance/532005). (optimize training processes of 6 click-through rate prediction models) (30000 CNY)
 - May 2021: **First Prize** and **Application Innovation Award** (highest score in quantum circuit simulation) in [ASC20-21](https://ev.buaa.edu.cn/info/1134/3091.htm). (build high-performance clusters and optimize large-scale applications in limited time) (10000 CNY)

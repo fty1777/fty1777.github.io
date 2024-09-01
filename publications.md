@@ -26,15 +26,27 @@ Siqi Wang\*, **Tianyu Feng\***, Hailong Yang, Xin You, Bangduo Chen, Tongxuan Li
 [[html](https://link.springer.com/chapter/10.1007/978-3-030-93571-9_2)]
 [[pdf](https://fty1777.github.io/file/dgQuEST.pdf)]
 
+- [Jigsaw: Accelerating SpMM with Vector Sparsity on Sparse Tensor Core](https://dl.acm.org/doi/10.1145/3673038.3673108)
+<br>
+Kaige Zhang\*, Xiaoyan Liu\*, Hailong Yang, **Tianyu Feng**, Xinyu Yang, Yi Liu, Zhongzhi Luan, Depei Qian
+<br>
+\*Equal contribution.
+<br>
+[ICPP 2024] The 53rd International Conference on Parallel Processing
+<br>
+[[source code](https://doi.org/10.5281/zenodo.12773529)]
+[[html](https://dl.acm.org/doi/10.1145/3673038.3673108)]
+[[pdf](https://fty1777.github.io/file/Jigsaw-Zhang.pdf)]
+
 - [Exploiting Input Tensor Dynamics in Activation Checkpointing for Efficient Training on GPU](https://ieeexplore.ieee.org/abstract/document/10177427)
 <br>
 Jianjin Liao, Mingzhen Li, Hailong Yang, Qingxiao Sun, Biao Sun, Jiwei Hao, **Tianyu Feng**, Fengwei Yu, Shengdong Chen, Ye Tao, Zicheng Zhang, Zhongzhi Luan, Depei Qian
 <br>
-2023 IEEE International Parallel and Distributed Processing Symposium [IPDPS 23]
+[IPDPS 23] 2023 IEEE International Parallel and Distributed Processing Symposium
 <br>
 [[source code](https://zenodo.org/records/7656850)]
 [[html](https://ieeexplore.ieee.org/abstract/document/10177427)]
-[[pdf](https://fty1777.github.io/file/mimose.pdf)]
+[[pdf](https://fty1777.github.io/file/mimose-Liao.pdf)]
 
 - [Minions: Accelerating Large Language Model Inference with Adaptive and Collective Speculative Decoding](https://arxiv.org/abs/2402.15678)
 <br>
