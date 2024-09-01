@@ -26,6 +26,7 @@ title: Awards
 
 ## Honors
 
+- April 2024: Excellent Postgraduate Student, Beihang University
 - Nov 2022: Excellent Undergraduate Thesis Award, Beijing
 - July 2022: Outstanding Graduate, Beijing
 - Sep 2021: Excellent Undergraduate Student, Beihang University
