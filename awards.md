@@ -4,8 +4,10 @@ permalink: /awards/index.html
 title: Awards
 ---
 
-## Scholarships (Selected)
+## Fellowships & Scholarships (Selected)
 
+- May 2025: HKPFS (Hong Kong PhD Fellowship Scheme) 25/26, Research Grants Council (RGC) of Hong Kong
+- Sep 2024: First Prize, Academics Scholarship, School of Computer Science and Engineering, Beihang University (3750 CNY)
 - Sep 2023: First Prize, Academics Scholarship, School of Computer Science and Engineering, Beihang University (7500 CNY)
 - Oct 2022: National Scholarship (Graduate) (20000 CNY)
 - Sep 2022: First Prize, Academics Scholarship, School of Computer Science and Engineering, Beihang University (7500 CNY)
@@ -26,6 +28,8 @@ title: Awards
 
 ## Honors
 
+- June 2025: Excellent Master's Thesis Award, Beihang University
+- June 2025: Outstanding Graduate, Beihang University
 - April 2024: Excellent Postgraduate Student, Beihang University
 - Nov 2022: Excellent Undergraduate Thesis Award, Beijing
 - July 2022: Outstanding Graduate, Beijing

@@ -26,6 +26,26 @@ Siqi Wang\*, **Tianyu Feng\***, Hailong Yang, Xin You, Bangduo Chen, Tongxuan Li
 [[html](https://link.springer.com/chapter/10.1007/978-3-030-93571-9_2)]
 [[pdf](https://fty1777.github.io/file/dgQuEST.pdf)]
 
+- [FlashPS: Efficient Generative Image Editing with Mask-aware Caching and Scheduling](https://arxiv.org/abs/2505.20600)
+<br>
+Xiaoxiao Jiang\*, Suyi Li\*, Lingyun Yang, **Tianyu Feng**, Zhipeng Di, Weiyi Lu, Guoxuan Zhu, Xiu Lin, Kan Liu, Yinghao Yu, Tao Lan, Guodong Yang, Lin Qu, Liping Zhang, Wei Wang
+<br>
+\*Equal contribution.
+<br>
+[EuroSys 2026] The 22nd European Conference on Computer Systems (just accepted)
+<br>
+[[arxiv](https://arxiv.org/abs/2505.20600)]
+
+- [SimTrace: Exploiting Spatial and Temporal Sampling for Large-Scale Performance Analysis](https://dl.acm.org/doi/abs/10.1145/3720544)
+<br>
+Zhibo Xuan\*, Xin You\*, **Tianyu Feng**, Hailong Yang, Zhongzhi Luan, Yi Liu, Depei Qian
+<br>
+\*Equal contribution.
+<br>
+[TACO 2025] ACM Transactions on Architecture and Code Optimization
+<br>
+[[html](https://dl.acm.org/doi/abs/10.1145/3720544)]
+
 - [Jigsaw: Accelerating SpMM with Vector Sparsity on Sparse Tensor Core](https://dl.acm.org/doi/10.1145/3673038.3673108)
 <br>
 Kaige Zhang\*, Xiaoyan Liu\*, Hailong Yang, **Tianyu Feng**, Xinyu Yang, Yi Liu, Zhongzhi Luan, Depei Qian
